@@ -51,7 +51,7 @@ public class NonRecursive {
 public static void main(String[] args) {
         System.out.println(getLongestBalancedSubstring("cabbacc"));
         System.out.println(getLongestBalancedSubstring("ababab"));
-        System.out.println(getLongestBalancedSubstring("aaaaaa"));
+        System.out.println(getLongestBalancedSubstring("abbbbaac"));
     }
     
 
